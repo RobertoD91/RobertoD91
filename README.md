@@ -1,16 +1,13 @@
 ## Hello world! 👋
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Image a very cool bio here!
+
+---
+
+Most of my repositories are either experiments, unfinished business, or evidence that I should have gone to bed earlier.
+
+**Interests:** Drones, IoT, 3D printing, cybersecurity, and finding ways to complicate simple things.
+
+If something works, thank Claude. If it doesn't, blame me.
+
+**Pseudo-professional information:** [robertodisanto.it](https://robertodisanto.it)
